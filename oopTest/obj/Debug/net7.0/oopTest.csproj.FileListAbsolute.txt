@@ -1,0 +1,15 @@
+C:\Programming\VUZ\No Passed\oopTest\oopTest\bin\Debug\net7.0\oopTest.exe
+C:\Programming\VUZ\No Passed\oopTest\oopTest\bin\Debug\net7.0\oopTest.deps.json
+C:\Programming\VUZ\No Passed\oopTest\oopTest\bin\Debug\net7.0\oopTest.runtimeconfig.json
+C:\Programming\VUZ\No Passed\oopTest\oopTest\bin\Debug\net7.0\oopTest.dll
+C:\Programming\VUZ\No Passed\oopTest\oopTest\bin\Debug\net7.0\oopTest.pdb
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.csproj.AssemblyReference.cache
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.AssemblyInfoInputs.cache
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.AssemblyInfo.cs
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.csproj.CoreCompileInputs.cache
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.dll
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\refint\oopTest.dll
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.pdb
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\oopTest.genruntimeconfig.cache
+C:\Programming\VUZ\No Passed\oopTest\oopTest\obj\Debug\net7.0\ref\oopTest.dll
