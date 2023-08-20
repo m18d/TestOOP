@@ -8,15 +8,16 @@ Console.WriteLine(account.Balance);
 account.MakeDeposit(100, DateTime.Now, "Friend paid me back");
 Console.WriteLine(account.Balance);
 
-//try
-//{
-//    account.MakeWithdrawal(750, DateTime.Now, "Attempt to overdraw");
-//}
-//catch (InvalidOperationException e)
-//{
-//    Console.WriteLine("Exception caught trying to overdraw");
-//    Console.WriteLine(e.ToString());
-//}
+
+try
+{
+    account.MakeWithdrawal(750, DateTime.Now, "Attempt to overdraw");
+}
+catch (InvalidOperationException e)
+{
+    Console.WriteLine("Exception caught trying to overdraw");
+    Console.WriteLine(e.ToString());
+}
 
 //// Test that the initial balances must be positive.
 //BanckAccount invalidAccount;
