@@ -75,5 +75,7 @@ namespace oopTest.Classes
 
             return report.ToString();
         }
+
+        public virtual void PerformMonthEndTransactions() { }
     }
 }
